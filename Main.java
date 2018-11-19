@@ -10,6 +10,6 @@ public class Main {
   }
   
   public void bar(){
-    System.out.println("This is the bar method.");
+    System.out.println("This is the bar method. Master change!");
   }
 }
