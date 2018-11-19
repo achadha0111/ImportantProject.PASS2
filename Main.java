@@ -10,5 +10,7 @@ public class Main {
   
   public void bar(){
     System.out.println("This is the bar method.");
+    System.out.println("I did some changes in this method in MergeConflictBranch");
+
   }
 }
